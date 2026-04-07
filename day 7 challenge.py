@@ -1,0 +1,14 @@
+Python 3.13.12 (tags/v3.13.12:1cbe481, Feb  3 2026, 18:22:25) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> age = int(input("Enter your age:"))
+Enter your age:27
+>>> if age >= 18:
+...     print("You can vote!")
+... else:
+...     print("Not eligible yet.")
+... 
+...     
+You can vote!
+>>> 17
+17
+>>> 
